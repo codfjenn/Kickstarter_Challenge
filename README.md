@@ -20,10 +20,10 @@ Module 1 Challenge
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-![Theater_Outcomes_vs_Launch]https://github.com/codfjenn/Kickstarter_Challenge/blob/main/Theater_Outcomes_vs_Launch.png 
+![Theater_Outcomes_vs_Launch](https://github.com/codfjenn/Kickstarter_Challenge/blob/main/Theater_Outcomes_vs_Launch.png) 
 
 - What can you conclude about the Outcomes based on Goals?
-![Outcomes_vs_Goals]https://github.com/codfjenn/Kickstarter_Challenge/blob/main/Outcomes_vs_Goals.png
+![Outcomes_vs_Goals](https://github.com/codfjenn/Kickstarter_Challenge/blob/main/Outcomes_vs_Goals.png)
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
