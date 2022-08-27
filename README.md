@@ -19,7 +19,8 @@ Module 1 Challenge
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- What are two conclusions you can draw about the Outcomes based on Launch Date? 
+-- The highest amount of successful kickstarters start in May. The next two highest months are June and then July. May also has the highest successful percentage at 67%. December has the lowest volume of kickstarters in total and also the lowest amount of successful kickstarters. December also has the highest failed percentage by month of total at 47% failed.  
 ![Theater_Outcomes_vs_Launch](https://github.com/codfjenn/Kickstarter_Challenge/blob/main/Theater_Outcomes_vs_Launch.png) 
 
 - What can you conclude about the Outcomes based on Goals?
