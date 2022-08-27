@@ -31,6 +31,7 @@ Module 1 Challenge
 -- The data set for reviewing plays is was broken 12 different goal ranges. The lowest three ranges of less than 1000, 1000 to 4999, and 5000 to 9999 make up 85% of the total dataset. Therefore, the percentage in the graphs for success of goals greater than 10000 have minimal data to review. I have added a visual below in the other tables section to support this statement. Another potential area for review would be what is the current success for projects that are currently live. 
 
 - What are some other possible tables and/or graphs that we could create?
+
 For Outcomes Based on Launch date, I have converted this view to a Stacked Column chart combo with a line to allow us to add totals to each stacked column. This view allows you to easily see the amount month with the outcomes. 
 ![Theater_Outcomes_Stacked_Bar](https://github.com/codfjenn/Kickstarter_Challenge/blob/main/Theater_Outcomes_Stacked_Bar.png)
 
