@@ -16,3 +16,14 @@ Module 1 Challenge
 
 ### Challenges and Difficulties Encountered
 #### The biggest challenge encountered from a technical excel stand point was utilize the pivot table grouping in the first analysis based on lauch date. I had not previously used this method for grouping a pivot. In the second analysis, my biggest hurddle was reading the instructions completely. I initially failed to add the sub category of plays to my countif formula. Once added the line graph created match the expected result. 
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+![Theater_Outcomes_vs_Launch] https://github.com/codfjenn/Kickstarter_Challenge/blob/main/Theater_Outcomes_vs_Launch.png 
+
+- What can you conclude about the Outcomes based on Goals?
+![Outcomes_vs_Goals] https://github.com/codfjenn/Kickstarter_Challenge/blob/main/Outcomes_vs_Goals.png
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
