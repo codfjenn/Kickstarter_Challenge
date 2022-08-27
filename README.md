@@ -24,7 +24,15 @@ Module 1 Challenge
 ![Theater_Outcomes_vs_Launch](https://github.com/codfjenn/Kickstarter_Challenge/blob/main/Theater_Outcomes_vs_Launch.png) 
 
 - What can you conclude about the Outcomes based on Goals?
+- The highest amount of play goals were within the range of 1000 to 4999. The goal with the highest successful percentage was less than 1000; however, the range of 1000 to 4999 was second and had almost 3 times as many projects and almost 3 times as many successful. Based on volume and success, the range of 1000 to 4999 seems to be the most ideal window. See visual below.
 ![Outcomes_vs_Goals](https://github.com/codfjenn/Kickstarter_Challenge/blob/main/Outcomes_vs_Goals.png)
+
 - What are some limitations of this dataset?
+- The data set for reviewing plays is was broken 12 different goal ranges. The lowest three ranges of less than 1000, 1000 to 4999, and 5000 to 9999 make up 85% of the total dataset. Therefore, the percentage in the graphs for success of goals greater than 10000 have minimal data to review. I have added a visual below in the other tables section to support this statement. Another potential area for review would be what is the current success for projects that are currently live. 
 
 - What are some other possible tables and/or graphs that we could create?
+- For Outcomes Based on Launch date, I have converted this view to a Stacked Column chart combo with a line to allow us to add totals to each stacked column. Thies view allows you to easily see the amount month with the outcomes. 
+![Theater_Outcomes_Stacked_Bar](https://github.com/codfjenn/Kickstarter_Challenge/blob/main/Theater_Outcomes_Stacked_Bar.png)
+
+Below is a pie chart for the outcomes based on goals for play. As noted in the limitations, this chart shows how the sample is mostly goals of less than 15000. 
+![Percent_of_Total](https://github.com/codfjenn/Kickstarter_Challenge/blob/main/Percent%20of%20Total.png)
