@@ -4,7 +4,7 @@ Module 1 Challenge
 
 ## Overview of Project
 
-### Review and Analyze kickstarter success for Theater Kickstarters based on Launch Date and subcategory Play Kicickstarters based on goal and success category. 
+### Review and Analyze kickstarter success for Theater Kickstarters based on Launch Date and subcategory Play Kickstarters based on goal and success category. 
 
 ## Analysis and Challenges
 
